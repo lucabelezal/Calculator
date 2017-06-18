@@ -1,4 +1,4 @@
-# Calculator TEST
+# Calculator/Test
 
 Example of a simple calculator
 
